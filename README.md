@@ -1,4 +1,4 @@
-# Teapache
+# Tepache
 
 In the world of OG XBOX hardware, practicality and user convenience often take center stage. The latest development catering to this need is the S.E.M, a straightforward and efficient solution for Stellar HD+ owners. This kit eliminates the need for the Stellar modchip, offering a simpler way to enjoy the freedom of using other bioses or modchips in your console without been locked into 1 eco-system.
 
